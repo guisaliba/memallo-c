@@ -1,6 +1,6 @@
 <samp>
   <h1 align="center">
-    memalloc-cpp
+    memallo-c
   </h1>
 
 ## Description
@@ -13,7 +13,7 @@ idk yet
 
 ## Technologies
 
-- C++
+- C
 
 ## Usage
 
